@@ -23,6 +23,28 @@
 
 
 
+### Key Insights
+
+### 1. Germany and France show stronger labour market resilience
+### Both countries maintain lower and more stable unemployment than the UK, supported by:
+### *	structured vocational systems
+### *	stronger industrial bases
+### *	coordinated skills pipelines
+
+
+### 2. The UK’s growth is more volatile
+### Volatility analysis shows the UK experiences larger swings in economic growth, making long term   planning harder for businesses and councils.
+
+### 3. Inflation shocks hit the UK harder
+### The misery index shows a sharp post-2022 spike driven by inflation volatility, putting greater pressure on households and local services.
+
+### 4. Growth does not consistently reduce unemployment in the UK
+### Dual axis analysis shows weak alignment between GDP growth and unemployment reduction — a sign of structural inefficiency.
+
+
+
+
+
 
 
 
