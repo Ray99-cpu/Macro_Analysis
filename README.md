@@ -14,9 +14,19 @@
 ### 3.	What do these national trends mean for local authorities responsible for skills and economic development?
 
 ### To answer these, the project uses:
-* multi country macroeconomic data (2010–2025)
-* 10 analytical plots exploring growth, unemployment, inflation, volatility, and the misery index
-* a narrative linking economic indicators to workforce development and local authority responsibilities
+### * Multi country macroeconomic data (2010–2025)
+### * 10 analytical plots exploring growth, unemployment, inflation, volatility, and the misery index
+### * A narrative linking economic indicators to workforce development and local authority responsibilities
+
+
+
+
+
+
+
+
+
+
 
 
 
