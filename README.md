@@ -1,6 +1,11 @@
 # ![Money Growth](images/money_growth.jpg)
 
-## Template Instructions
+## Executive Summary
+
+### This project analyses the economic performance of the UK compared with key European peers (Germany and France) from 2010–2025, focusing on growth, unemployment, inflation, and economic resilience. Using Python, pandas, and seaborn, the analysis explores how national economic trends translate into labour market outcomes and what this means for local authorities responsible for skills, training, and economic development.
+
+### The findings show that the UK experiences higher growth volatility, sharper inflation spikes, and weaker unemployment resilience than Germany and France. These patterns highlight the importance of strong vocational systems and industrial structures in supporting stable employment. For cities like Coventry and Swindon, the analysis reinforces a key message: regions with strong skills pipelines are better positioned to attract investment, support residents, and prepare for emerging sectors such as AI and green technologies.
+
 
 Welcome,
 
