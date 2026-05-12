@@ -6,6 +6,20 @@
 
 ### The findings show that the UK experiences higher growth volatility, sharper inflation spikes, and weaker unemployment resilience than Germany and France. These patterns highlight the importance of strong vocational systems and industrial structures in supporting stable employment. For cities like Coventry and Swindon, the analysis reinforces a key message: regions with strong skills pipelines are better positioned to attract investment, support residents, and prepare for emerging sectors such as AI and green technologies.
 
+## Project Overview
+
+### This project investigates three core questions:
+### 1.	How does the UK’s economic performance compare with Germany and France?
+### 2.	Does UK economic growth effectively translate into lower unemployment?
+### 3.	What do these national trends mean for local authorities responsible for skills and economic development?
+
+### To answer these, the project uses:
+* multi country macroeconomic data (2010–2025)
+* 10 analytical plots exploring growth, unemployment, inflation, volatility, and the misery index
+* a narrative linking economic indicators to workforce development and local authority responsibilities
+
+
+
 
 Welcome,
 
