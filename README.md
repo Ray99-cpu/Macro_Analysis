@@ -42,7 +42,7 @@
 ### Dual axis analysis shows weak alignment between GDP growth and unemployment reduction — a sign of structural inefficiency.
 
 
-
+# ![GDP Trends](images/gdp_trends.jpg)
 
 
 
