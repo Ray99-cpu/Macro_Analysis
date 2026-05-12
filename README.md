@@ -19,7 +19,7 @@
 ### * A narrative linking economic indicators to workforce development and local authority responsibilities
 
 
-
+# ![GDP BY Country](images/gdp_by_country.jpg)
 
 
 
