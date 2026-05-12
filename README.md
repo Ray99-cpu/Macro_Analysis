@@ -66,6 +66,13 @@
 ### Strong skills pipelines are essential for resilience.
 
 
+## Methodology
+### *	Data cleaning and type conversion
+### * Derived metrics (e.g., misery index)
+### * Grouped volatility calculations
+### * Multi country comparisons
+### * Dual axis and annotated plots
+### * Insight driven narrative following Brent Dykes’ data storytelling principles
 
 
 
