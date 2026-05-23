@@ -1,4 +1,4 @@
-# ![Macro_econ](images/econ_insights.jpg)
+# ![GDP BY Country](images/gdp_by_country.jpg)
 
 ## Executive Summary
 
