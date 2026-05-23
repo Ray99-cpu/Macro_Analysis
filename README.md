@@ -1,4 +1,4 @@
-# ![Money Growth](images/money_growth.jpg)
+# ![Macro_econ](images/econ_insights.jpg)
 
 ## Executive Summary
 
